@@ -1,1 +1,2 @@
-# Challenge3_Space_Shooter
+# Tutorial-3-Space-Shooter
+Space shooter tutorial #3
